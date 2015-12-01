@@ -5,7 +5,7 @@
 #2.Give appropriate permissions chmod u+x list-my-xen-vms.sh
 #3.Run ./list-my-xen-vms-csv.sh (to print to screen)
 #OR
-#3.Run ./list-my-xen-vms-csv.sh > myexisting-vm-list.txt (to print to myexisting-vm-list.txt text file in current script location)
+#3.Run ./list-my-xen-vms-csv.sh > myexisting-vm-list.csv (to print to myexisting-vm-list.csv text file in current script location)
 #Original script by: Scott Francis Crucial Cloud Hosting - 08/02/2013
 #Updated script by: Kibui Kenneth utafitini.com/home/user/mainakibui - 01/dec/2015
 ####################################################################################################
